@@ -18,9 +18,11 @@
   </a>  
 </p>
 
-[![HTechMedia](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/HTechMedia)  
+[![HTechMedia](https://link4filess.herokuapp.com/110582)](https://telegram.dog/HTechMedia)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![HTechMedia](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![HTechMedia](https://link4filess.herokuapp.com/110580)](https://telegram.dog/HTechMediaSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)
+
+[![HTechMediaYT](https://link4filess.herokuapp.com/110580)](https://youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ)
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
 
@@ -65,7 +67,7 @@ or
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [HTechMediaSupport](https://telegram.dog/HTechMediaSupport)
 
 
 ## Installation
