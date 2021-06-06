@@ -20,7 +20,7 @@
 
 [![HTechMedia](https://link4filess.herokuapp.com/110582)](https://telegram.dog/HTechMedia)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![HTechMedia](https://link4filess.herokuapp.com/110582)](https://telegram.dog/HTechMediaSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)
+[![HTechMedia](https://link4filess.herokuapp.com/110582)](https://telegram.dog/HTechMediaSupport)  [![HTechMedia](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)
 
 [![HTechMediaYT](https://link4filess.herokuapp.com/110580)](https://youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ)
 ㅤㅤㅤㅤㅤㅤㅤ  
